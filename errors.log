@@ -1,0 +1,3 @@
+ERROR:root:Error in plus_numbers: unsupported operand type(s) for +: 'float' and 'str'
+ERROR:root:Error in minus_numbers: unsupported operand type(s) for -: 'float' and 'str'
+ERROR:root:Error in umnoj_numbers: can't multiply sequence by non-int of type 'float'
